@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Object Oriented Programming
 
 [Object Oriented Programming](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
