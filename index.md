@@ -4,7 +4,7 @@
 
 ### Object Oriented Programming
 
-[OOP Artefacts](/sample_page)
+[OOP Artefacts](/artefacts)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
