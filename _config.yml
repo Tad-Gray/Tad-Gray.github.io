@@ -1,5 +1,5 @@
 title: "Tom Gray Computing Portfolio" # your name (or website title) here
-logo: "/images/Code_Thumbnail.jpg" # your photo (or logo) here
+logo: "/images/Code_Thumbnail.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   This is a Portfolio of my work during my MSc Computer Science course. 
   
