@@ -28,7 +28,37 @@ On this page are a number of artefacts that I have gather from my studies of Obj
     print(s1.name)
     print(s1.age)
     print(s1._ID)
-'''
+```
+
+---
+### Artefact 5: Polymorphism Example
+
+```
+        class SteerLeft:
+            def __init__(self, direction, degrees):
+                self.direction = direction 
+                self.degrees = degrees
+        
+            def info(self):
+                print(f"Turning {self.direction} for {self.degrees}.")
+        
+        
+        
+        class SteerRight:
+            def __init__(self, direction, degrees):
+                self.direction = direction # this has been reused from the SteerLeft class as a form of polymorphism
+                self.degrees = degrees
+        
+            def info(self):
+                print(f"Turning {self.direction} for {self.degrees}.")
+            
+        
+        Left1 = SteerLeft("Left", 90)
+        Right1 = SteerRight("Right", 90)
+        
+        for directional in (Left1, Right1):
+            directional.info()
+```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
