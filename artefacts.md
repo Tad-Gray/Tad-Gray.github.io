@@ -8,11 +8,11 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 
 ### Artefact 2. Collaborative Discussion regarding Reusability of Code in OOP
 
-
+[Collaborative Discussion](/pdf/collaborative_discussion.pdf)
 
 ### Artefact 3. UML Models within the Software Development Life Cycle
 
-
+[UML and SDLC](/pdf/uml_in_sdlc.pdf)
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
