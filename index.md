@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[OOP Reflections](/pdf/sample_presentation.pdf)
+[OOP Reflections](/reflections.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Professional Skills Matrix](http://example.com/)
+[Professional Skills Matrix](/psm.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
