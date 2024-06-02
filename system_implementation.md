@@ -262,11 +262,12 @@ class GPS:
 
     gpsdictionary = creategpsdictionary
     
-# Dictionary created to store GPS functions for efficiency and useability```
+# Dictionary created to store GPS functions for efficiency and useability
+```
 
-
+---
 ### README File Explaining The System Implementation
 
-
+[System Implementation](/pdf/system_implementation.pdf)
 
 
