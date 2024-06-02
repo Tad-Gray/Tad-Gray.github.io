@@ -1,31 +1,16 @@
-Object Oriented Programming - Artefacts 
+System Design Assignment - Driverless Car
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Belowis my design proposal document for a driverless car system, along with the associated UML models that support this. This was completed as part of my system design assignment
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### System Design Proposal Document
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+[Proposal Document](/pdf/e_portfolio_development.pdf)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### UML Model To Support System Design Proposal
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Use Case Diagram](/pdf/e_portfolio_development.pdf)
+[Class Diagram](/pdf/e_portfolio_development.pdf)
+[Sequence Diagram](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - GPS](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - Speed Detection System](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - Hazard Detection System](/pdf/e_portfolio_development.pdf)
