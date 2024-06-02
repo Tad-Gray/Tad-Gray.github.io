@@ -17,47 +17,47 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 ### Artefact 4: Python Code Showing Protected and Unprotected Variables
 
 ```
-    class Student:
-      def __init__(self, name, age, ID):
-        self.name = name # this is an unprotected variable
-        self.age = age # this is unprotected
-        self._ID = ID # the “_” prior to “ID” highlights this as a protected variable
-    
-    s1 = Student("Billy", 15, 1443)
-    
-    print(s1.name)
-    print(s1.age)
-    print(s1._ID)
+        class Student:
+          def __init__(self, name, age, ID):
+            self.name = name # this is an unprotected variable
+            self.age = age # this is unprotected
+            self._ID = ID # the “_” prior to “ID” highlights this as a protected variable
+        
+        s1 = Student("Billy", 15, 1443)
+        
+        print(s1.name)
+        print(s1.age)
+        print(s1._ID)
 ```
 
 ---
 ### Artefact 5: Polymorphism Example
 
 ```
-        class SteerLeft:
-            def __init__(self, direction, degrees):
-                self.direction = direction 
-                self.degrees = degrees
+    class SteerLeft:
+        def __init__(self, direction, degrees):
+            self.direction = direction 
+            self.degrees = degrees
+    
+        def info(self):
+            print(f"Turning {self.direction} for {self.degrees}.")
+    
+    
+    
+    class SteerRight:
+        def __init__(self, direction, degrees):
+            self.direction = direction # this has been reused from the SteerLeft class as a form of polymorphism
+            self.degrees = degrees
+    
+        def info(self):
+            print(f"Turning {self.direction} for {self.degrees}.")
         
-            def info(self):
-                print(f"Turning {self.direction} for {self.degrees}.")
-        
-        
-        
-        class SteerRight:
-            def __init__(self, direction, degrees):
-                self.direction = direction # this has been reused from the SteerLeft class as a form of polymorphism
-                self.degrees = degrees
-        
-            def info(self):
-                print(f"Turning {self.direction} for {self.degrees}.")
-            
-        
-        Left1 = SteerLeft("Left", 90)
-        Right1 = SteerRight("Right", 90)
-        
-        for directional in (Left1, Right1):
-            directional.info()
+    
+    Left1 = SteerLeft("Left", 90)
+    Right1 = SteerRight("Right", 90)
+    
+    for directional in (Left1, Right1):
+        directional.info()
 ```
 
 
