@@ -4,18 +4,18 @@ Belowis my design proposal document for a driverless car system, along with the 
 
 ### System Design Proposal Document
 
-[Proposal Document](/pdf/e_portfolio_development.pdf)
+[Proposal Document](/pdf/design_proposal.pdf)
 
 ### UML Model To Support System Design Proposal
 
-[Use Case Diagram](/pdf/e_portfolio_development.pdf)
+[Use Case Diagram](/pdf/use_case.pdf)
 
-[Class Diagram](/pdf/e_portfolio_development.pdf)
+[Class Diagram](/pdf/class_diagram.pdf)
 
-[Sequence Diagram](/pdf/e_portfolio_development.pdf)
+[Sequence Diagram](/pdf/sequence_diagram.pdf)
 
-[Activity Diagram - GPS](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - GPS](/pdf/gps_activity.pdf)
 
-[Activity Diagram - Speed Detection System](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - Speed Detection System](/pdf/speed_activity.pdf)
 
-[Activity Diagram - Hazard Detection System](/pdf/e_portfolio_development.pdf)
+[Activity Diagram - Hazard Detection System](/pdf/hazard_activity.pdf)
