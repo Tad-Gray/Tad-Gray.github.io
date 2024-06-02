@@ -6,7 +6,8 @@ Below is the Python code to support the operation of a driverless car, as well a
 ### Python Code To Support The Operation Of A Driverless Car
 
 
-```class DriverlessCar: # Initial class for the car
+```
+class DriverlessCar: # Initial class for the car
 
   make = "Ford"
   model = "Fiesta"
