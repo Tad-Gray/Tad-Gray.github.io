@@ -6,16 +6,29 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 
 [E-Portfolio Development Reflection](/pdf/e_portfolio_development.pdf)
 
-### Artefact 2. Collaborative Discussion regarding Reusability of Code in OOP
+### Artefact 2: Collaborative Discussion regarding Reusability of Code in OOP
 
 [Collaborative Discussion](/pdf/collaborative_discussion.pdf)
 
-### Artefact 3. UML Models within the Software Development Life Cycle
+### Artefact 3: UML Models within the Software Development Life Cycle
 
 [UML and SDLC](/pdf/uml_in_sdlc.pdf)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Artefact 4: Python Code Showing Protected and Unprotected Variables
 
+```
+    class Student:
+      def __init__(self, name, age, ID):
+        self.name = name # this is an unprotected variable
+        self.age = age # this is unprotected
+        self._ID = ID # the “_” prior to “ID” highlights this as a protected variable
+    
+    s1 = Student("Billy", 15, 1443)
+    
+    print(s1.name)
+    print(s1.age)
+    print(s1._ID)
+'''
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
