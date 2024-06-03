@@ -1,6 +1,6 @@
 System Design Assignment - Driverless Car
 
-Belowis my design proposal document for a driverless car system, along with the associated UML models that support this. This was completed as part of my system design assignment
+Belowis my design proposal document for a driverless car system, along with the associated UML models that support this. This was completed as part of my system design assignment. The assignment shows how I meet Learning Outcome 4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
 
 ### System Design Proposal Document
 
