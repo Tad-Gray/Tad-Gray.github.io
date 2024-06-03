@@ -4,11 +4,11 @@ Below are reflection pieces written regarding two of the assignments completed d
 
 ### System Design Reflection
 
-[System Design - Reflection](/pdf/collaborative_discussion.pdf) 
+[System Design - Reflection](/pdf/system_design_reflection.pdf) 
 
 
 ### System Implementation Reflection
 
-[System Implementation - Reflection](/pdf/collaborative_discussion.pdf) 
+[System Implementation - Reflection](/pdf/s_ystem_implementation_reflection.pdf) 
 
 
