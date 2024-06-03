@@ -4,30 +4,13 @@ I have completed a Professional Skills Matrix, which highlights where I believe 
 
 [Professional Skills Matrix](pdf/psm.pdf)
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+## Learning Outcomes
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The learning outcomes for this module are as follows:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
+2) Design and implement programs that demonstrate appropriate use of object-oriented design principles.
+3) Select and use appropriate data structures for a given problem.
+4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Reference to these is made throughout my portfolio to highlight how I have met them.
