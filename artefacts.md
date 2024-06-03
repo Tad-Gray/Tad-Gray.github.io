@@ -60,5 +60,8 @@ On this page are a number of artefacts that I have gather from my studies of Obj
         directional.info()
 ```
 
+---
+### Artefact 6: Discussion On Cyclomatic Complexity
+[Cyclomatic Complexity](/pdf/e_portfolio_development.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
