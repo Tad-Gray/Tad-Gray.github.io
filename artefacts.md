@@ -6,15 +6,24 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 
 [E-Portfolio Development Reflection](/pdf/e_portfolio_development.pdf)
 
+
 ### Artefact 2: Collaborative Discussion regarding Reusability of Code in OOP
+
+The below artefact shows how I meet Learning Outcome 1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
 
 [Collaborative Discussion](/pdf/collaborative_discussion.pdf)
 
+
 ### Artefact 3: UML Models within the Software Development Life Cycle
+
+The below artefact shows how I meet Learning Outcome 4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
 
 [UML and SDLC](/pdf/uml_in_sdlc.pdf)
 
+
 ### Artefact 4: Python Code Showing Protected and Unprotected Variables
+
+The below artefact shows how I meet Learning Outcome 2) Design and implement programs that demonstrate appropriate use of object-oriented design principles.
 
 ```
         class Student:
@@ -32,6 +41,8 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 
 ---
 ### Artefact 5: Polymorphism Example
+
+The below artefact also shows how I meet Learning Outcome 2) Design and implement programs that demonstrate appropriate use of object-oriented design principles.
 
 ```
     class SteerLeft:
@@ -62,6 +73,10 @@ On this page are a number of artefacts that I have gather from my studies of Obj
 
 ---
 ### Artefact 6: Discussion On Cyclomatic Complexity
+
+The below artefact shows how I meet Learning Outcome 1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
 [Cyclomatic Complexity](/pdf/cyclomatic_complexity.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
