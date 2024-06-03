@@ -75,6 +75,7 @@ The below artefact also shows how I meet Learning Outcome 2) Design and implemen
 ### Artefact 6: Discussion On Cyclomatic Complexity
 
 The below artefact shows how I meet Learning Outcome 1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
+
 [Cyclomatic Complexity](/pdf/cyclomatic_complexity.pdf)
 
 
