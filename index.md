@@ -6,27 +6,27 @@
 
 [OOP Artefacts](/artefacts.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Compute.jpg?raw=true"/>
 
 ---
 [OOP Reflections](/reflections.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reflection.jpg?raw=true"/>
 
 ---
 [System Design Assignment](/system_design.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/uml.jpg?raw=true"/>
 
 ---
 [System Implementation Assignment](/system_implementation.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/python.jpg?raw=true"/>
 
 ---
 [Professional Skills Matrix](/psm.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/psm.jpg?raw=true"/>
 
 
 
