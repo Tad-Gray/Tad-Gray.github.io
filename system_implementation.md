@@ -1,6 +1,9 @@
 System Implementation Assignment - Driverless Car
 
-Below is the Python code to support the operation of a driverless car, as well as an accompanying file that explains my thought processes and decision making while completing this.
+Below is the Python code to support the operation of a driverless car, as well as an accompanying file that explains my thought processes and decision making while completing this. This contributes to and shows how I meet Learning Outcomes:
+1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
+2) Design and implement programs that demonstrate appropriate use of object-oriented design principles.
+3) Select and use appropriate data structures for a given problem..
 
 
 ### Python Code To Support The Operation Of A Driverless Car                                                                                                      
